@@ -25,3 +25,6 @@ style-backup.css
 
 src/app/admin/products/page.tsx.backup
 src/app/api/orders/route.ts.backup
+
+.env.local-backup
+local-database-backup.dump
