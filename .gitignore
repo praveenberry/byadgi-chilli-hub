@@ -20,7 +20,6 @@ tsconfig.tsbuildinfo
 README.txt
 index.html
 script.js
-style.css
 style-backup.css
 
 src/app/admin/products/page.tsx.backup
